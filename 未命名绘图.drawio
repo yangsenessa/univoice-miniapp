@@ -272,6 +272,17 @@
         <mxCell id="sLplEs6qzm56YvoPoeSw-137" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.trashcan;" vertex="1" parent="1">
           <mxGeometry x="550" y="-262" width="20" height="24" as="geometry" />
         </mxCell>
+        <mxCell id="sLplEs6qzm56YvoPoeSw-138" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="-70" width="260" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="sLplEs6qzm56YvoPoeSw-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.362;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sLplEs6qzm56YvoPoeSw-93" target="sLplEs6qzm56YvoPoeSw-138">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="20" y="-453" />
+              <mxPoint x="20" y="-63" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
